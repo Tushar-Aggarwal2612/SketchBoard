@@ -1,0 +1,39 @@
+body{
+margin: 0;
+background: #a9adb0 url(page_bg_center.jpg) no-repeat center top;
+}
+#board{
+margin: 0 auto;
+width: 500px;
+}
+#myCanvas{
+ border: 3px solid black;
+}
+.panelbuttons {
+    margin-top: 7px;
+    margin-bottom: -7px;
+    border: none;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    background-image: none;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+}
